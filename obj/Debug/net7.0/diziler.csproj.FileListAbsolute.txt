@@ -1,0 +1,15 @@
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Pratikler\diziler\bin\Debug\net7.0\diziler.exe
+C:\Pratikler\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Pratikler\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Pratikler\diziler\bin\Debug\net7.0\diziler.dll
+C:\Pratikler\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.dll
+C:\Pratikler\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Pratikler\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Pratikler\diziler\obj\Debug\net7.0\ref\diziler.dll
